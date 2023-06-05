@@ -17,7 +17,7 @@ export default function Contact(){
                     <input name="message"/>
                 </label>
                <button>Submit</button>
-                {data && data.error && <p>{data.error}</p>}
+                {data && data.error && <p>{data.error}</p>}:
             </Form>
         </div>
     )

@@ -4,7 +4,6 @@ import Breadcrumbs from "../components/Breadcrumbs";
 export default function RootLayout() {
   return (
     <div className="root-layout">
-      Root Layout
       <header>
         <nav>
           <h1>Jobarouter</h1>
